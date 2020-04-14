@@ -8,7 +8,7 @@
 # exec git update-server-info
 cd /home/muser/musiverse/
 git pull
-/usr/bin/bundle-2.5 exec jekyll build
+/usr/bin/bundler exec jekyll build
 rsync -ria --delete --chown=muser:http /home/muser/musiverse/_site/ /srv/http/_site/
 
 touch /tmp/gitupdate.test
