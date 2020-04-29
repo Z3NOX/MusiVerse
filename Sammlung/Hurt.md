@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: Hurt
+title: Hurt (Johnny Cash)
 parent: "Sammlung"
 
 ---
