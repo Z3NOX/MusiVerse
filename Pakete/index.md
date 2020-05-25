@@ -8,10 +8,3 @@ has_toc: false
 
 ---
 # Installierte Pakete
-* [Volkslieder](./Volkslieder)
-* [Folk & Gospel](./Folk_Gospel)
-* [Kinderlieder](./Kinderlieder)
-* [Schlaflieder](./Schlaflieder)
-* [Weihnachtslieder](./Weihnachtslieder)
-* [Sonstiges](./Sonstiges)
-
