@@ -30,5 +30,4 @@ aux_links:
   "MusiVerse on GitHub":
       - "https://github.com/Z3NOX/MusiVerse"
 
-
-exclude: ["tools", "ruby", "node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+exclude: ["Pakete_offline/*", "tools", "ruby", "node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
