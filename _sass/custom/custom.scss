@@ -1,0 +1,32 @@
+.main-header {
+  display: block;
+
+  @include mq(md) {
+    display: flex;
+  }
+
+  &.nav-open {
+    display: block;
+
+    @include mq(md) {
+      display: flex;
+    }
+  }
+}
+
+.search-result-title {
+  @include mq(sm) {
+    display: inline-block;
+    width: 100%;
+  }
+}
+
+.search-result-previews {
+  @include mq(sm) {
+    display: none;
+  }
+}
+
+.nav-list-expander {
+    display: none;
+}
