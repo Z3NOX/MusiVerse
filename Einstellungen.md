@@ -13,3 +13,4 @@ permalink: Einstellungen
 |SSID: `MusiVerse` <br /> Passwort: `esrevisum`   | ![QR-Code](/assets/images/wifi_qrc.png) |
 
 [Herunterfahren](/shutdown.cgi){: .btn .btn-purple }
+[Seiteninhalt aktualisieren](/update.cgi){: .btn .btn-purple }
