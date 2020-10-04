@@ -8,6 +8,8 @@ permalink: /
 
 # MusiVerse
 
+![](/assets/images/musiverse.png)
+
 MusiVerse bietet dir die Möglichkeit, deine Lyrics/Tabs/Noten/… lokal deinen Freunden zur Verfügung zu stellen. Am besten geht das mit einem Einplatinencomputer (wie z.B. einem Raspberry Pi), der einen eigenen WLAN-Chip mitbringt. Dieser stellt euch ein WLAN zur Verfügung über das der - vorher von euch festgelegte - Inhalt mit allen in Reichweite geteilt werden kann. Der WLAN-Hostspot muss dazu noch nicht einmal in der Nähe eines anderen WLANs mit Internetzugang sein.
 
 ## Features
