@@ -3,6 +3,7 @@
 layout: default
 title: Update
 nav_exclude: true
+search_exclude: true
 permalink: Update
 
 ---

@@ -3,6 +3,7 @@
 layout: default
 title: Bye
 nav_exclude: true
+search_exclude: true
 permalink: Bye
 
 ---
